@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(223, 247, 223);
+}
+h1 {
+  color: rgb(60, 60, 156);
+}
+h2 {
+  color: rgb(88, 64, 25);
+}
+h3 {
+  color: rgb(165, 156, 79);
+}
+p {
+  color: blue;
+}
+.green-letters {
+  color: rgb(51, 119, 20);
+}
+.red-letters {
+  color: rgb(216, 29, 29);
+}
+.yellow-letters {
+  color: rgb(184, 175, 62);
+}
